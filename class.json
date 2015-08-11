@@ -1,0 +1,39 @@
+{
+   0 :
+      {name : "Advanced Operating Systems",
+      id: "6210",
+      foundational : true
+      },
+  1 : 
+     {name: "Computer Networks",
+     id : "6250",
+     foundational : true
+     },
+  2: 
+    {name : "Software Development Process",
+    id: "6300",
+    foundational : 
+    },
+  3: 
+    {name : "Machine Learning",
+    id : "7641"
+    },
+  4: 
+    {name:"Artificial Intelligence for Robotics",
+     id: "8803",
+     blah: "001"
+     },
+  5: {name : "High Performance Computer Architecture",
+      id: "6290"
+      },
+ 6: 
+    {name : "Software Architecture and Design",
+    id: "6310"
+    },
+7:
+   {name: "Intro to Health Informatics",
+    id: "6440"},
+8: {name : "Computability, Complexity, and Algorithms",
+    id: "6505"},
+    
+    
